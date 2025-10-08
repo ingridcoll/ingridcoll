@@ -42,6 +42,7 @@ Always open to connect :)
 
 ---
 
+<!--
 ### 📺 Watch DEMOs of my actual projects!
 
 ### Demo 1
