@@ -41,9 +41,11 @@ Always open to connect :)
 </ul>
 
 ---
-<!--
+
 ### 📺 Watch DEMOs of my actual projects!
 
+### Demo 1
+<p>API-driven workflow</p>
 <video width="320" height="240" src="https://github.com/user-attachments/assets/26ed8daa-72d8-4004-a710-0cb1ff31a60a"></video>
 
 
