@@ -6,7 +6,7 @@ I’m a Solutions & Automation Engineer with 5+ years of experience and a Master
 
 Originally from Barcelona (Spain), I moved to the United States at 18 years old on a college scholarship to challenge myself and pursue professional and personal growth. After graduating, I moved to Austin, fell in love with the city and immersed myself in technology and software development.
 
-I love making things work better. As a natural optimizer and problem solver, I’m the kind of person that has multiple spreadsheets to manage my personal finances for fun, and keeps a categorized list of recipes on my phone, complete with ingredients, serving sizes, food brands, and macros.
+> I love making things work better. As a natural optimizer and problem solver, I’m the kind of person that has multiple spreadsheets to manage my personal finances for fun, and keeps a categorized list of recipes on my phone, complete with ingredients, serving sizes, food brands, and macros.
 
 Always open to connect :)
 
