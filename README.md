@@ -44,11 +44,9 @@ Always open to connect :)
 
 ### 📺 Watch DEMOs of my actual projects!
 
- <video width="320" height="240" controls>
-  <source src="[movie.mp4](https://github.com/user-attachments/assets/26ed8daa-72d8-4004-a710-0cb1ff31a60a)" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video> 
+https://github.com/user-attachments/assets/26ed8daa-72d8-4004-a710-0cb1ff31a60a
+
+https://github.com/user-attachments/assets/26ed8daa-72d8-4004-a710-0cb1ff31a60a
 
 
 
