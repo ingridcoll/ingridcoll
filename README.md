@@ -2,7 +2,7 @@
 
 **`Solutions & Automation Engineer (Python, SQL, Power Platform) | API Integration Specialist`**
 
-I’m a Solutions & Automation Engineer with 5+ years of experience and a Master’s in Software Programming, specializing in developing cloud-based webs and apps with expertise in API integrations, building data pipelines and automating with code. Skilled in Python, SQL, HTML/CSS, JavaScript and low-code Microsoft tools like Power Apps/Automate/BI.
+I’m a Solutions & Automation Engineer with 5+ years of experience and a Master’s in Software Programming, specializing in developing cloud-based webs and apps with expertise in API integrations, building data pipelines and automating with code. Skilled in Python, SQL, HTML/CSS, TypeScript/JavaScript (React) and low-code Microsoft tools like Power Apps/Automate/BI.
 
 Originally from Barcelona (Spain), I moved to the United States at 18 years old on a college scholarship to challenge myself and pursue professional and personal growth. After graduating, I moved to Austin, fell in love with the city and immersed myself in technology and software development.
 
@@ -16,7 +16,7 @@ Always open to connect :)
 
 
 <ul>
- <li style="margin-bottom:10px;"><strong>Programming languages & frameworks: </strong>Python, SQL, HTML, CSS, Typescript/JavaScript, React, Node.js</li>
+ <li style="margin-bottom:10px;"><strong>Programming languages & frameworks: </strong>Python, SQL, HTML, CSS, Typescript/JavaScript, React</li>
  <p></p>
   <img align="center" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img align="center" alt="SQL Developer" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
@@ -25,19 +25,17 @@ Always open to connect :)
   <img align="center" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
  <img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <p></p>
- <li><strong>Cloud platforms: </strong>Microsoft Azure, SharePoint, Power Platform (Power Automate, Apps and BI), AWS</li>
+ <li><strong>Cloud platforms: </strong>Microsoft Azure, SharePoint, Power Platform (Power Automate, Apps and BI)</li>
  <p></p>
   <img align="center" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
  <img align="center" alt="SharePoint" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Microsoft_Office_SharePoint_%282019%E2%80%932025%29.svg" />
  <img align="center" alt="Power Automate" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" /> 
  <img align="center" alt="Power Apps" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Powerapps-logo.svg" />
  <img align="center" alt="Power BI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
- <img align="center" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
  <p></p>
  <li><strong>Databases & APIs: </strong>SQL Developer, Microsoft Graph API, ArcGIS API, Data & Insights API (Socrata API), Postman</li>
- <li><strong>AI-focused development tools & IDEs: </strong>Claude, Copilot, Visual Studio, GitHub, Miro, Figma, Anaconda</li>
+ <li><strong>AI-focused development tools & IDEs: </strong>Claude, Copilot, Git, Miro, Figma, Anaconda</li>
 </ul>
 
 ---
