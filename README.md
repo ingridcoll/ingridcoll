@@ -1,8 +1,8 @@
 # 🧑🏻‍💻 Ingrid Coll (she/her)
 
-**`Solutions & Automation Engineer (Python, SQL, Power Platform) | API Integration Specialist`**
+**`Solutions & Data/Automation Engineer (Python, SQL, Power Platform) | API Integration Specialist`**
 
-I’m a Solutions & Automation Engineer with 5+ years of experience and a Master’s in Software Programming, specializing in developing cloud-based webs and apps with expertise in API integrations, building data pipelines and automating with code. Skilled in Python, SQL, HTML/CSS, and low-code Microsoft tools like Power Apps/Automate/BI.
+I’m a Solutions & Data/Automation Engineer with 4+ years of experience and a Master’s in Software Programming, specializing in developing cloud-based webs and apps with expertise in API integrations, building data pipelines and automating with code. Skilled in Python, SQL, HTML/CSS, and low-code Microsoft tools like Power Apps/Automate/BI.
 
 Originally from Barcelona (Spain), I moved to the United States at 18 years old on a college scholarship to challenge myself and pursue professional and personal growth. After graduating, I moved to Austin, fell in love with the city and immersed myself in technology and software development.
 
