@@ -3,11 +3,11 @@
 
 **`Automation Engineer (n8n, JavaScript, Power Automate)`**
 
-I'm an Automation Engineer with 4+ years of experience and a Master’s in Software Programming. I fix operational inefficiencies by building scalable automation solutions that replace time-consuming work, eliminate manual errors and integrate disconnected systems. I leverage hands-on expertise in n8n, JavaScript, APIs, & AI, to deliver end-to-end, resilient workflows.
-
 Originally from Barcelona, I moved to the United States at 18 years old on a college scholarship to challenge myself and pursue personal growth. After graduating, I relocated to Austin and immersed myself in the world of technology and software development.
 
-> I build for the user. My approach prioritizes accessibility, ensuring that the teams who depend on my automations can interact with them confidently and safely through simple user interfaces, making advanced functionality feel simple. Whether using custom code or low-code tools, my solutions are reliable, built for scale, innovative, and low-maintenance.
+Now, I'm an Automation Engineer with 4+ years of experience and a Master’s in Software Programming. I leverage hands-on expertise in n8n, JavaScript, APIs, & AI, to deliver end-to-end, resilient solutions.
+
+I build for the user. My approach prioritizes accessibility, ensuring that the teams who depend on my automations can interact with them confidently and safely through simple user interfaces, making advanced functionality feel simple. Whether using custom code or low-code tools, my solutions are reliable, built for scale, innovative, and low-maintenance.
 
 Always open to connect!
 
