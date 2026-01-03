@@ -1,7 +1,9 @@
-# Ingrid Coll | [ingridcoll.com](https://ingridcoll.com/)
+# Ingrid Coll 
 
 **`Automation Engineer (n8n, JavaScript, Power Automate)`**
 
+ [ingridcoll.com](https://ingridcoll.com/) | [linkedin.com/in/ingridcoll](https://www.linkedin.com/in/ingridcoll/)
+ 
 Originally from Barcelona, I moved to the United States at 18 years old on a college scholarship to challenge myself and pursue personal growth. After graduating, I relocated to Austin and immersed myself in the world of technology and software development.
 
 Now, I'm an Automation Engineer with 4+ years of experience and a Master’s in Software Programming. I leverage hands-on expertise in n8n, JavaScript, APIs, & AI, to deliver end-to-end, resilient solutions.
