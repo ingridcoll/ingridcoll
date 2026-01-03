@@ -10,10 +10,7 @@ I build for the user. My approach prioritizes accessibility, ensuring that the t
 
 Always open to connect!
 
----
-
-### Languages and Tools
-
+## Languages and Tools
 
 <ul>
   <li style="margin-bottom:10px;"><strong>Automation & Workflow: </strong>n8n, TypeScript/JavaScript, Google Apps Script, Power Automate, Python, BeautifulSoup, Playwright</li>
@@ -54,8 +51,3 @@ Always open to connect!
   <img align="center" alt="Catalan" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/2560px-Flag_of_Catalonia.svg.png" />
   <p></p>
 </ul>
-
----
-
-
-
