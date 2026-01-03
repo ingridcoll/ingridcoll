@@ -21,7 +21,7 @@ Always open to connect!
   <img align="center" alt="n8n" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/54294770?s=200&v=4" />
   <img align="center" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Google Apps Script" width="30px" style="padding-right:10px;" src="https://www.gstatic.com/script/2020/img/script_logo.svg" />
+  <img align="center" alt="Google Apps Script" width="30px" style="padding-right:10px;" src="https://commons.wikimedia.org/wiki/File:Google_Apps_Script.svg" />
   <img align="center" alt="Power Automate" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" />
   <img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img align="center" alt="Playwright" width="30px" style="padding-right:10px;" src="https://playwright.dev/img/playwright-logo.svg" />
