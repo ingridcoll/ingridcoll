@@ -1,4 +1,4 @@
-# Ingrid Coll (she/her)
+# Ingrid Coll
 ### [ingridcoll.com](https://ingridcoll.com/)
 
 **`Automation Engineer (n8n, JavaScript, Power Automate)`**
