@@ -1,4 +1,5 @@
-# 🧑🏻‍💻 Ingrid Coll (she/her)
+# Ingrid Coll (she/her)
+### [ingridcoll.com](https://ingridcoll.com/)
 
 **`Automation Engineer (n8n, JavaScript, Power Automate)`**
 
@@ -12,16 +13,16 @@ Always open to connect!
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 
 <ul>
   <li style="margin-bottom:10px;"><strong>Automation & Workflow: </strong>n8n, TypeScript/JavaScript, Google Apps Script, Power Automate, Python, BeautifulSoup, Playwright</li>
   <p></p>
-  <img align="center" alt="n8n" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/54294770?s=200&v=4" />
+  <img align="center" alt="n8n" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" />
   <img align="center" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Google Apps Script" width="30px" style="padding-right:10px;" src="https://commons.wikimedia.org/wiki/File:Google_Apps_Script.svg" />
+  <img align="center" alt="Google Apps Script" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" />
   <img align="center" alt="Power Automate" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" />
   <img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img align="center" alt="Playwright" width="30px" style="padding-right:10px;" src="https://playwright.dev/img/playwright-logo.svg" />
@@ -29,9 +30,6 @@ Always open to connect!
 
   <li style="margin-bottom:10px;"><strong>APIs and Data: </strong>RESTful APIs, JSON, XML, Webhooks, Postman, SQL, Supabase, Postgres, Azure, Power BI, Power Apps</li>
   <p></p>
-  <img align="center" alt="REST API" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/rest-api-icon.svg" />
-  <img align="center" alt="JSON" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/json.svg" />
-  <img align="center" alt="XML" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/68/Xml_logo.svg" />
   <img align="center" alt="Postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
   <img align="center" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
   <img align="center" alt="Supabase" width="30px" style="padding-right:10px;" src="https://supabase.com/favicon/favicon-196x196.png" />
@@ -43,30 +41,22 @@ Always open to connect!
 
   <li style="margin-bottom:10px;"><strong>AI/LLM Integrations: </strong>OpenAI GPT, Anthropic Claude, Google Gemini, DeepSeek, OpenRouter</li>
   <p></p>
-  <img align="center" alt="OpenAI" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" />
-  <img align="center" alt="Claude" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/473618/claude.svg" />
-  <img align="center" alt="Google Gemini" width="30px" style="padding-right:10px;" src="https://www.gstatic.com/lamda/images/gemini_favicon_350d2a2a6ffa1b7290de.png" />
-  <img align="center" alt="DeepSeek" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/deepseek-icon-2048x2048-u9t2fjwr.png" />
+  <img align="center" alt="OpenAI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+  <img align="center" alt="Claude" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Claude_AI_logo.svg" />
+  <img align="center" alt="Google Gemini" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" />
+  <img align="center" alt="DeepSeek" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/DeepSeek_logo.svg" />
   <img align="center" alt="OpenRouter" width="30px" style="padding-right:10px;" src="https://openrouter.ai/favicon.ico" />
   <p></p>
 
   <li style="margin-bottom:10px;"><strong>Spoken Languages: </strong>English, Spanish, Catalan</li>
   <p></p>
-  <img align="center" alt="English" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/english-flag-1.svg" />
-  <img align="center" alt="Spanish" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/spain-flag-1.svg" />
+  <img align="center" alt="English" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" />
+  <img align="center" alt="Spanish" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" />
   <img align="center" alt="Catalan" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/2560px-Flag_of_Catalonia.svg.png" />
   <p></p>
 </ul>
 
 ---
-
-<!--
-### 📺 Watch DEMOs of my actual projects!
-
-### Demo 1
-<p>API-driven workflow</p>
-<video width="320" height="240" src="https://github.com/user-attachments/assets/26ed8daa-72d8-4004-a710-0cb1ff31a60a"></video>
-
 
 
 
