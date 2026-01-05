@@ -1,6 +1,6 @@
 # Ingrid Coll 
 
-**`Automation Engineer (n8n, JavaScript, Power Automate)`**
+**`Automation Engineer (n8n, Power Automate, JavaScript, Python)`**
 
  [ingridcoll.com](https://ingridcoll.com/) | [linkedin.com/in/ingridcoll](https://www.linkedin.com/in/ingridcoll/)
  
