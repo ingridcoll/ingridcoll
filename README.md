@@ -6,7 +6,7 @@
  
 Originally from Barcelona, I moved to the United States at 18 years old on a college scholarship to challenge myself and pursue personal growth. After graduating, I relocated to Austin and immersed myself in the world of technology and software development.
 
-Now, I'm an Automation Engineer with 4+ years of experience and a Master’s in Software Programming. I leverage hands-on expertise in n8n, JavaScript, APIs, & AI, to deliver end-to-end, robust solutions.
+Now, I'm an Automation Engineer with 4+ years of experience and a Master’s in Software Programming. I leverage hands-on experience with n8n, JavaScript, Python, APIs, & AI, to deliver end-to-end, robust solutions.
 
 As a natural problem-solver, I'm drawn to complex challenges. I'm always pursuing the satisfaction of figuring out the optimal solution to a problem. Whether using custom code or low-code tools, I pick the method that fits the job, even if it's outside my comfort zone. As a resourceful developer, I'll dive into new software and master it. After all, I spend a considerable amount of my free time exploring new technologies, always with curiosity and on the hunt to add another tool to my repertoire.
 
