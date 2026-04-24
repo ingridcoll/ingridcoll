@@ -6,12 +6,6 @@
  
 Originally from Barcelona, I moved to the United States at 18 years old on a college scholarship to challenge myself and pursue personal growth. After graduating, I relocated to Austin and immersed myself in the world of technology and software development.
 
-Now, I'm an Application Engineer focused on Automation, with 4+ years of experience and a Master’s in Software Programming. I leverage hands-on experience with n8n, JavaScript, Python, APIs, & AI, to deliver end-to-end, robust solutions.
-
-As a natural problem-solver, I'm drawn to complex challenges. I'm always pursuing the satisfaction of figuring out the optimal solution to a problem. Whether using custom code or low-code tools, I pick the method that fits the job, even if it's outside my comfort zone. As a resourceful developer, I'll dive into new software and master it. After all, I spend a considerable amount of my free time exploring new technologies, always with curiosity and on the hunt to add another tool to my repertoire.
-
-While I'm comfortable with all things technical, I also recognize the value of making my design simple. That is why my north star is accessibility, ensuring that the users who depend on my automations can interact with them confidently and safely through straightforward user interfaces, making advanced solutions feel effortless. My design is reliable, built for scale, innovative, and low-maintenance.
-
 Always open to connect!
 
 ## Languages and Tools
