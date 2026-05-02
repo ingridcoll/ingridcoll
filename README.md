@@ -1,8 +1,8 @@
 # Ingrid Coll 
 
-**`Application Engineer @ SailPoint (AWS, Node.js, JavaScript, n8n) | Rapid Application Development Team`**
+**`Application Engineer @ SailPoint (AWS, Node.js, JavaScript, n8n) | GTM Engineering Team`**
 
- [ingridcoll.com](https://ingridcoll.com/) | [linkedin.com/in/ingridcoll](https://www.linkedin.com/in/ingridcoll/)
+[linkedin.com/in/ingridcoll](https://www.linkedin.com/in/ingridcoll/)
  
 Originally from Barcelona, I moved to the United States at 18 years old on a college scholarship to challenge myself and pursue personal growth. After graduating, I relocated to Austin and immersed myself in the world of technology and software development.
 
