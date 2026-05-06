@@ -46,6 +46,6 @@ Always open to connect!
   <p></p>
   <img align="center" alt="English" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" />
   <img align="center" alt="Spanish" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" />
-  <img align="center" alt="Catalan" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/2560px-Flag_of_Catalonia.svg.png" />
+  <img align="center" alt="Catalan" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Catalonia.svg" />
   <p></p>
 </ul>
