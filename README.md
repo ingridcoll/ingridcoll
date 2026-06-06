@@ -1,12 +1,14 @@
 # Ingrid Coll 
 
-**`Application Engineer @ SailPoint (AWS, Node.js, JavaScript, n8n) | GTM Engineering Team`**
+**`Backend Software Engineer | TypeScript, Node.js, AWS Serverless, PostgreSQL | GTM Application Engineer @ SailPoint`**
 
 [linkedin.com/in/ingridcoll](https://www.linkedin.com/in/ingridcoll/)
  
-Originally from Barcelona, I moved to the United States at 18 years old on a college scholarship to challenge myself and pursue personal growth. After graduating, I relocated to Austin and immersed myself in the world of technology and software development.
+Originally from Barcelona, I moved to the US at 18 on a college scholarship to challenge myself and see what I was capable of.
 
-Always open to connect!
+Now, I'm a Backend Software Engineer with a Master's in Software Programming, building serverless apps in TypeScript, Node, and AWS, living in Austin, TX.
+
+Always open to talk about tech :)
 
 ## Languages and Tools
 
